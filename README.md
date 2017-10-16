@@ -1,6 +1,6 @@
 # Jcanvas::Rails
 
-TODO: Write a gem description
+This is a rubygems to implement jcanvas into rails assets pipeline
 
 ## Installation
 
@@ -18,9 +18,24 @@ Or install it yourself as:
 
     $ gem install jcanvas-rails
 
+Add this line to your `application.js` file
+
+```ruby
+//= require jquery
+//= require jcanvas
+```
+
+## requirements
+
+jquery
+
+
 ## Usage
 
-TODO: Write usage instructions here
+please refer to the official jquery plugin: jcanvas page
+https://projects.calebevans.me/jcanvas/
+
+written by : https://calebevans.me/
 
 ## Contributing
 
