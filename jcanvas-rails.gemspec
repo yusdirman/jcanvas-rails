@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Jcanvas::Rails::VERSION
   spec.authors       = ["yusdirman"]
   spec.email         = ["yusdirman@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{wrap jquery jcanvas into rails asset}
+  spec.description   = %q{this gem will implement jcanvas, a jquery plugin for canvas into rails assets pipeline}
+  spec.homepage      = "https://github.com/yusdirman/jcanvas-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
