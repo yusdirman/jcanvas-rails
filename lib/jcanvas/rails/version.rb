@@ -1,5 +1,5 @@
 module Jcanvas
   module Rails
-    VERSION = "0.1.0"
+    VERSION = "21.0.1"
   end
 end
